@@ -1,5 +1,5 @@
 var config = {
-  geojson: "https://web.fulcrumapp.com/shares/a5c8e07368efde43.geojson",
+  geojson: "./data/congress_park_trees.geojson",
   title: "Congress Park Trees",
   layerName: "Trees",
   hoverProperty: "species_sim",
